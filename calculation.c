@@ -1,5 +1,5 @@
 ///Writing a coustomer bill.
-
+author: Geraldo Braho
 
 #include <stdio.h>
 
