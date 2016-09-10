@@ -1,6 +1,6 @@
 ///Writing a coustomer bill.
-author: Geraldo Braho
-
+//author: Geraldo Braho
+//date:09/10/2016
 #include <stdio.h>
 
 int tv;
