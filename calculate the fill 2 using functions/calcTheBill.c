@@ -1,3 +1,6 @@
+//Geraldo Braho
+//Date:02/14/2017
+
 #include<stdio.h>
 #include<math.h>
 
